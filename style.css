@@ -41,7 +41,7 @@ nav {
     line-height: 20px;
 }
 .baner {
-    background-image: url(../img/baner.jpg);
+    background-image: url(./img/baner.jpg);
     background-size: cover;
 }
 .baner__img {
